@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+I mainly do drawing illustration, 3D modeling, programming and game dev.
+Illustrator
+Photoshop
+Premiere pro
+Blender
+Unity
+Unreal Engine
+Python
 <!--
 **JrRVvt4ODwM2NQf9MHj1/JrRVvt4ODwM2NQf9MHj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
