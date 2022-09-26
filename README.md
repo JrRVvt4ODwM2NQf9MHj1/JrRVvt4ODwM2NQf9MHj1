@@ -2,16 +2,17 @@
 I mainly do drawing illustration, 3D modeling, programming and game dev.
 
 Using apps:
-Illustrator
-Photoshop
-Premiere pro
-Blender
-Unity
-Unreal Engine
+Illustrator,
+Photoshop,
+Premiere pro,
+Blender,
+Unity,
+Unreal Engine,
 Python
 
 Never using language:
-C#, Javascript
+C#,
+Javascript
 <!--
 **JrRVvt4ODwM2NQf9MHj1/JrRVvt4ODwM2NQf9MHj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
