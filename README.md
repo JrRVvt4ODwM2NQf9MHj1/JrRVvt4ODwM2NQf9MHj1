@@ -1,5 +1,7 @@
 ### Hi there 👋
 I mainly do drawing illustration, 3D modeling, programming and game dev.
+
+Using apps:
 Illustrator
 Photoshop
 Premiere pro
@@ -7,9 +9,9 @@ Blender
 Unity
 Unreal Engine
 Python
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={JrRVvt4ODwM2NQf9MHj1}&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
 
+Never using language:
+C#, Javascript
 <!--
 **JrRVvt4ODwM2NQf9MHj1/JrRVvt4ODwM2NQf9MHj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
